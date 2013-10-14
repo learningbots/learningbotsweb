@@ -1,4 +1,4 @@
-application: learningbots
+application: nirthi12
 version: 99
 runtime: python27
 api_version: 1
@@ -9,8 +9,8 @@ handlers:
   static_dir: static/css
 - url: /static/fonts
   static_dir: static/fonts
-- url: /static/img
-  static_dir: static/img
+- url: /static/images
+  static_dir: static/images
 - url: /static/js
   static_dir: static/js
 - url: /.*
